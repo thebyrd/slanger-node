@@ -1,7 +1,7 @@
 {
   "name": "slanger",
   "description": "Node library for Slanger API",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "David Byrd <david@byrdhou.se>",
   "dependencies": {
     "request": "=2.9.203"
