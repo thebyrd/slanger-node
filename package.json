@@ -4,6 +4,7 @@
   "version": "0.0.4",
   "author": "David Byrd <david@byrdhou.se>",
   "dependencies": {
+    "request": "=2.9.203"
   },
   "devDependencies": {
   },
