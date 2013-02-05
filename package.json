@@ -1,0 +1,14 @@
+{
+  "name": "slanger",
+  "description": "Node library for Slanger API",
+  "version": "0.0.1",
+  "author": "David Byrd <david@byrdhou.se>",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": ["slanger", "pusher", "websockets", "realtime"],
+  "repository": "git://github.com/davidbyrd11/slanger-node",
+  "main": "index",
+  "engines": { "node": ">= 0.4.3" }
+}
